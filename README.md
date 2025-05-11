@@ -61,8 +61,8 @@
 ![image](https://github.com/user-attachments/assets/74c96db6-a24a-488b-91e7-e9eb073cc4e0)
 
 
-### Name: NALLAMALLI VENAKTA CHETAN SATWIK
-### Register Number: 212224240100
+### Name: ARANI VEMKATA SUNDARA LEELA KRISHNA.
+### Register Number: 212224240013
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
